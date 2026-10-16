@@ -2,6 +2,12 @@
 
   <p align="center">
     A Zygisk module that aims to hide the existence root and Zygisk.
+    <p align="center">
+    Fix: resolve companion FD leak in Zygisk Next 1.3.4+.
+    </p>
+    <p align="center">
+    For my own use.
+    </p>
     <br />
     <br />
     <a href="https://github.com/snake-4/Zygisk-Assistant/issues">Report Bug</a>
