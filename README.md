@@ -1,4 +1,4 @@
-<h3 align="center">Zygisk Assistant</h3>
+<h3 align="center">Zygisk Assistant Fork</h3>
 
   <p align="center">
     A Zygisk module that aims to hide the existence root and Zygisk.
